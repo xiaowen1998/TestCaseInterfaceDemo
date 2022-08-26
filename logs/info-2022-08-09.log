@@ -1,0 +1,12 @@
+ERROR   2022-08-09 11:00:30,316D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:129 用例总数: 8
+ERROR   2022-08-09 11:00:30,316D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:130 异常用例数: 8
+INFO    2022-08-09 11:00:30,317D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:133 用例执行时长: 23.66 s
+INFO    2022-08-09 11:00:30,317D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:137 用例成功率: 0.00 %
+ERROR   2022-08-09 14:18:12,075D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:129 用例总数: 1
+ERROR   2022-08-09 14:18:12,076D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:130 异常用例数: 1
+INFO    2022-08-09 14:18:12,076D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:133 用例执行时长: 21.84 s
+INFO    2022-08-09 14:18:12,077D:\PythonTest\interfaceDemo2\logs\info-2022-08-09.log:conftest.py:137 用例成功率: 0.00 %
+ERROR   2022-08-09 18:02:29,465D:\InterfaceDemo\logs\info-2022-08-09.log:conftest.py:129 用例总数: 8
+ERROR   2022-08-09 18:02:29,465D:\InterfaceDemo\logs\info-2022-08-09.log:conftest.py:130 异常用例数: 8
+INFO    2022-08-09 18:02:29,466D:\InterfaceDemo\logs\info-2022-08-09.log:conftest.py:133 用例执行时长: 23.42 s
+INFO    2022-08-09 18:02:29,466D:\InterfaceDemo\logs\info-2022-08-09.log:conftest.py:137 用例成功率: 0.00 %

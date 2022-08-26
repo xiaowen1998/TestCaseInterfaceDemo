@@ -1,0 +1,4 @@
+ERROR   2022-08-10 18:16:21,851D:\InterfaceDemo\logs\info-2022-08-10.log:conftest.py:129 用例总数: 8
+ERROR   2022-08-10 18:16:21,851D:\InterfaceDemo\logs\info-2022-08-10.log:conftest.py:130 异常用例数: 8
+INFO    2022-08-10 18:16:21,852D:\InterfaceDemo\logs\info-2022-08-10.log:conftest.py:133 用例执行时长: 23.67 s
+INFO    2022-08-10 18:16:21,852D:\InterfaceDemo\logs\info-2022-08-10.log:conftest.py:137 用例成功率: 0.00 %
